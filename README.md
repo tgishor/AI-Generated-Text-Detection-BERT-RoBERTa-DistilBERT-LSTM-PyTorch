@@ -32,7 +32,7 @@ This project systematically compares statistical machine learning approaches wit
 
 | Section | Description | Link |
 | :-- | :-- | :-- |
-| 🤖 **Main Analysis** | Complete NLP pipeline \& model comparisons | [View Notebook](Assignment1_Final_48032875_comp8420_ass1.ipynb) |
+| 🤖 **Main Analysis** | Complete NLP pipeline \& model comparisons | [View Notebook](https://github.com/tgishor/AI-Generated-Text-Detection-BERT-RoBERTa-DistilBERT-LSTM-PyTorch/blob/main/AI-Generated-Text-Detection-BERT-RoBERTa-DistilBERT-LSTM-PyTorch.ipynb) |
 | 📊 **Dataset** | Multi-source custom dataset (7,367 samples) | [Dataset Details](#-custom-dataset-development) |
 | 🎯 **Performance Metrics** | Comprehensive model evaluation results | [Results Summary](#-comprehensive-performance-summary) |
 | 🔬 **Linguistic Analysis** | AI vs Human vocabulary patterns | [Key Findings](#-key-research-findings) |
